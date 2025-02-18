@@ -57,7 +57,7 @@ Edit the script to include:
 ## Running the Script
 Execute the script using:
 ```sh
-python script.py
+python main.py
 ```
 
 If configured correctly, the script will fetch recent Garmin activities and write them to your Google Sheet.
